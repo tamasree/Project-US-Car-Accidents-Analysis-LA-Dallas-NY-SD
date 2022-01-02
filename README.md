@@ -2,7 +2,7 @@
 ## Car accident records for Dallas, Los Angeles, New York and San Diego
 
 
-<img src="Project_3_ver1/static/readmepic.gif" height="450" width="800" /> 
+<img src="static/readmepic.gif" height="450" width="800" /> 
 
 ###### [source: https://gfycat.com/](https://gfycat.com/glumwastefuladouri)
 
@@ -183,21 +183,21 @@ Here are the final html pages power up by python flask app.
 
 ### Langding page:
 
-![landing](Project_3_ver1/static/landingpage.gif)
+![landing](static/landingpage.gif)
 
 ### Visualization pages:
 
-![1](Project_3_ver1/static/vis1.gif)
-![2](Project_3_ver1/static/vis2.gif)
+![1](static/vis1.gif)
+![2](static/vis2.gif)
 
 
 ### API page:
 
-![3](Project_3_ver1/static/vis3.gif)
+![3](static/vis3.gif)
 
 ### About Us page: 
 
-![4](Project_3_ver1/static/aboutus.gif)
+![4](static/aboutus.gif)
 
 ## Acknowledgments:
 
@@ -205,12 +205,11 @@ Here are the final html pages power up by python flask app.
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. <a href="https://arxiv.org/abs/1909.09638">“Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.”</a> In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
 
-## Team member: 
+## Contact Info: 
 
-* Tamasree Sinha
-* Hima V
-* Lekshmi Prabha
-* Vilaysack Khonsavanh
+* email id : tamasree.g@gmail.com
+* Linkedin : https://www.linkedin.com/in/tamasree-sinha/
+
 
 
 
